@@ -2,7 +2,7 @@
 
 ### Connect with me:
 
-[![website](./img/linkedin.svg)](https://www.linkedin.com/in/muhammad-aman-16971a277/)
+[![LinkedIn](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg)](https://www.linkedin.com/in/muhammad-aman-16971a277/)
 
 ## I'm a Full Stack-Developer. ReactJs,NodeJs,SQL,Typescript !!
 
@@ -36,46 +36,18 @@ amaanpathan09876@gmail.com.
 
 ### Languages and Tools:
 
-[<img align="left" alt="VS Code" width="26px"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />](#)
-
-[<img align="left" alt="HTML5" width="26px"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />](#)
-
-[<img align="left" alt="CSS3" width="26px"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />](#)
-
-[<img align="left" alt="TailwindCSS" width="26px"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />](#)
-
-[<img align="left" alt="JavaScript" width="26px"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />](#)
-
-[<img align="left" alt="TypeScript" width="26px"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />](#)
-
-[<img align="left" alt="React" width="26px"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />](#)
-
-[<img align="left" alt="Next.js" width="26px"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />](#)
-
-[<img align="left" alt="Node.js" width="26px"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />](#)
-
-[<img align="left" alt="Supabase" width="26px"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" />](#)
-
-[<img align="left" alt="Prisma" width="26px"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" />](#)
-
-[<img align="left" alt="PostgreSQL" width="26px"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />](#)
-
-[<img align="left" alt="Git" width="26px"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />](#)
-
-[<img align="left" alt="GitHub" width="26px"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />](#)
+<img align="left" alt="VS Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+<img align="left" alt="TailwindCSS" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
+<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+<img align="left" alt="TypeScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<img align="left" alt="Next.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
+<img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+<img align="left" alt="Supabase" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" />
+<img align="left" alt="Prisma" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" />
+<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img align="left" alt="GitHub" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 
 <br />
