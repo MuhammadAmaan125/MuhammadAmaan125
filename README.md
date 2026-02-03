@@ -2,7 +2,13 @@
 
 ### Connect with me:
 
-[![LinkedIn](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg)](https://www.linkedin.com/in/muhammad-aman-16971a277/)
+### Connect with me:
+
+<a href="https://www.linkedin.com/in/muhammad-aman-16971a277/">
+  <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="28px" />
+</a>
+
+<br />
 
 ## I'm a Full Stack-Developer. ReactJs,NodeJs,SQL,Typescript !!
 
