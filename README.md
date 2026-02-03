@@ -1,9 +1,6 @@
 # Hi there, I'm Muhammad Aman 👋
 
 ### Connect with me:
-
-### Connect with me:
-
 <a href="https://www.linkedin.com/in/muhammad-aman-16971a277/">
   <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="28px" />
 </a>
